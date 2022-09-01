@@ -52,6 +52,7 @@
 
 	body {
 		line-height: 1;
+		
 	}
 
 	ol, ul {
@@ -287,7 +288,7 @@
 
 	section, article {
 		margin-bottom: 3em;
-
+        
 		> :last-child,
 		> .container,
 		&:last-child {
@@ -296,6 +297,7 @@
 
 		.row > & {
 			margin-bottom: 0;
+			
 		}
 	}
 
