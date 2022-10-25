@@ -142,7 +142,9 @@ input, select, textarea {
 	h3 {
 		font-size: 1.5em;
 	}
-
+.fullcard {
+	opacity: 50%;
+}
 	header {
 		margin: 0 0 2em 0;
 	}
